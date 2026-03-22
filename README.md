@@ -3,9 +3,9 @@
 I'm a *Computer Science Engineering student* at *NIAMT Ranchi* with a passion for *coding, web development, and data structures & algorithms*.  
 I love exploring new technologies and constantly challenging myself to learn and grow.
 
-<p align="left"> 
+<!-- <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Neerajkr2&label=Profile%20views&color=0e75b6&style=flat" alt="Neerajkr2" /> 
-</p>
+</p> -->
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
