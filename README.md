@@ -86,17 +86,26 @@ A deployed full-stack platform that turns complex medical data into simple, acti
 
 ### 📊 GitHub Stats
 
-<!-- These cards are powered by github-readme-stats. The PUBLIC server (github-readme-stats.vercel.app)
-     is frequently paused, so deploy your OWN free instance and replace YOUR-GRS-INSTANCE below with
-     your Vercel domain. (Tip: change theme=algolia to theme=radical for a pink style.) -->
 <p align="center">
-  <img height="170" alt="Neeraj Kumar's GitHub stats" src="https://YOUR-GRS-INSTANCE.vercel.app/api?username=Neerajkr2&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=algolia">
-  <img height="170" alt="Most used languages" src="https://YOUR-GRS-INSTANCE.vercel.app/api/top-langs/?username=Neerajkr2&layout=compact&langs_count=8&hide_border=true&theme=algolia">
+  <img width="78%" alt="Neeraj Kumar's GitHub profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neerajkr2&theme=algolia">
 </p>
+
+<p align="center">
+  <img height="185" alt="Top languages by repository" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neerajkr2&theme=algolia">
+  <img height="185" alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neerajkr2&theme=algolia">
+</p>
+
+<p align="center">
+  <img width="92%" alt="Neeraj Kumar's contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Neerajkr2&bg_color=051026&color=2dd4bf&line=38bdf8&point=ffffff&area=true&area_color=12305a&title_color=2dd4bf&hide_border=true&radius=10">
+</p>
+
+<!-- For the github-readme-stats "A+ grade" card, self-host it (its public server is paused): fork anuraghazra/github-readme-stats, set maxDuration:10 in vercel.json, add env var PAT_1=<your GitHub token> on vercel.com, deploy, then use https://YOUR-INSTANCE.vercel.app/api?username=Neerajkr2&show_icons=true&rank_icon=github&theme=algolia -->
+
 
 ---
 
 <p align="center">
   💬 Open to collaborations, internships, and full-stack / MERN opportunities — feel free to reach out!
 </p>
-
+  💬 Open to collaborations, internships, and full-stack / MERN opportunities — feel free to reach out!
+</p>
