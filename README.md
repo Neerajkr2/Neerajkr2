@@ -86,13 +86,12 @@ A deployed full-stack platform that turns complex medical data into simple, acti
 
 ### 📊 GitHub Stats
 
+<!-- These cards are powered by github-readme-stats. The PUBLIC server (github-readme-stats.vercel.app)
+     is frequently paused, so deploy your OWN free instance and replace YOUR-GRS-INSTANCE below with
+     your Vercel domain. (Tip: change theme=algolia to theme=radical for a pink style.) -->
 <p align="center">
-  <img alt="Neeraj's GitHub summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neerajkr2&theme=algolia">
-</p>
-
-<p align="center">
-  <img alt="Most used languages" height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neerajkr2&theme=algolia">
-  <img alt="Most committed language" height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neerajkr2&theme=algolia">
+  <img height="170" alt="Neeraj Kumar's GitHub stats" src="https://YOUR-GRS-INSTANCE.vercel.app/api?username=Neerajkr2&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=algolia">
+  <img height="170" alt="Most used languages" src="https://YOUR-GRS-INSTANCE.vercel.app/api/top-langs/?username=Neerajkr2&layout=compact&langs_count=8&hide_border=true&theme=algolia">
 </p>
 
 ---
