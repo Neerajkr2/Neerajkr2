@@ -5,9 +5,10 @@
   Building intelligent, scalable, and user-centric web applications.
 </p>
 
+<!-- Replace YOUR-LINKEDIN with your real custom LinkedIn URL (e.g. neerajkumar-dev) -->
 <p align="center">
   <a href="https://swasthyaseva.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Project-SwasthyaSeva-0d9488?style=for-the-badge"></a>
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/neeraj-profile/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:neeraj.kr62004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=Neerajkr2&style=for-the-badge&color=0d9488&label=Profile+Views">
 </p>
@@ -21,7 +22,7 @@
 - 🤖 Especially interested in bringing **AI/ML into web apps** to solve real problems (see SwasthyaSeva below).
 - 🌐 I like shipping real, deployed products — not just demos.
 - 📫 Reach me at **neeraj.kr62004@gmail.com**
-- 💼 **Open to** software-engineering / full-stack / MERN internships & entry-level roles.
+- 💼 **Open to** software-engineering / full-stack / MERN internships & full-time roles.
 
 ---
 
@@ -77,23 +78,18 @@ A deployed full-stack platform that turns complex medical data into simple, acti
 - Secure auth (Firebase + reCAPTCHA), personalized dashboard, protected REST APIs
 
 **Stack:** React · Vite · Tailwind · FastAPI · PostgreSQL · SQLAlchemy · Python ML
-🔗 
-**Live:** https://swasthyaseva.vercel.app/ &nbsp;
-|&nbsp; 💻 **Code:** https://github.com/Neerajkr2/SwasthyaSeva
 
-> _More MERN & full-stack projects coming soon — pinned below._
+🔗 **Live:** https://swasthyaseva.vercel.app/ &nbsp;|&nbsp; 💻 **Code:** https://github.com/Neerajkr2/SwasthyaSeva
+
+> _More MERN & full-stack projects coming soon — check out my pinned repositories below._
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Neerajkr2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajkr2&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neerajkr2&theme=tokyonight&hide_border=true">
+  <img height="165" alt="Neeraj's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Neerajkr2&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&count_private=true">
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neerajkr2&layout=compact&langs_count=8&theme=tokyonight&hide_border=true">
 </p>
 
 ---
