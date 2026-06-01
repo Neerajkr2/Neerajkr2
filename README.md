@@ -17,10 +17,9 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 Final-year **Computer Engineering** student at **NIAMT Ranchi**, focused on **full-stack development** and **AI/ML integration**.
+- 🧑‍💻 **B.Tech** graduate in **Computer Engineering** from **National Institute of Advanced Manufacturing Technology** (NIAMT), Ranchi, focused on developing innovative web applications and exploring AI-powered technologies.
 - ⚙️ I build across the stack — **React** front ends, **Node.js / Express / FastAPI** back ends, and **REST APIs** with **MongoDB / PostgreSQL**.
 - 🤖 Especially interested in bringing **AI/ML into web apps** to solve real problems (see SwasthyaSeva below).
-- 🌐 I like shipping real, deployed products — not just demos.
 - 📫 Reach me at **neeraj.kr62004@gmail.com**
 - 💼 **Open to** software-engineering / full-stack / MERN internships & full-time roles.
 
