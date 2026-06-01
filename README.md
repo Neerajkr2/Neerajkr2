@@ -87,12 +87,12 @@ A deployed full-stack platform that turns complex medical data into simple, acti
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img alt="Neeraj's GitHub summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neerajkr2&theme=tokyonight">
+  <img alt="Neeraj's GitHub summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Neerajkr2&theme=algolia">
 </p>
 
 <p align="center">
-  <img alt="Most used languages" height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neerajkr2&theme=tokyonight">
-  <img alt="Most committed language" height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neerajkr2&theme=tokyonight">
+  <img alt="Most used languages" height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neerajkr2&theme=algolia">
+  <img alt="Most committed language" height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Neerajkr2&theme=algolia">
 </p>
 
 ---
