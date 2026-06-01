@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://swasthyaseva.vercel.app/"><img src="https://img.shields.io/badge/🌐_Live_Project-SwasthyaSeva-0d9488?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/neeraj-profile/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:neeraj.kr62004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=Neerajkr2&style=for-the-badge&color=0d9488&label=Profile+Views">
 </p>
@@ -77,7 +77,9 @@ A deployed full-stack platform that turns complex medical data into simple, acti
 - Secure auth (Firebase + reCAPTCHA), personalized dashboard, protected REST APIs
 
 **Stack:** React · Vite · Tailwind · FastAPI · PostgreSQL · SQLAlchemy · Python ML
-🔗 **Live:** https://swasthyaseva.vercel.app/ &nbsp;|&nbsp; 💻 **Code:** https://github.com/Neerajkr2/SwasthyaSeva
+🔗 
+**Live:** https://swasthyaseva.vercel.app/ &nbsp;
+|&nbsp; 💻 **Code:** https://github.com/Neerajkr2/SwasthyaSeva
 
 > _More MERN & full-stack projects coming soon — pinned below._
 
