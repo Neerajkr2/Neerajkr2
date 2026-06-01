@@ -107,5 +107,4 @@ A deployed full-stack platform that turns complex medical data into simple, acti
 <p align="center">
   💬 Open to collaborations, internships, and full-stack / MERN opportunities — feel free to reach out!
 </p>
-  💬 Open to collaborations, internships, and full-stack / MERN opportunities — feel free to reach out!
-</p>
+  
